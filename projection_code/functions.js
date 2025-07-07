@@ -1,4 +1,4 @@
-import Algebra from './ganja.js';
+import Algebra from '../ganja.js';
 
 export function star_moving_perspective() {
 
