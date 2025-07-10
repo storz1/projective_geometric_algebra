@@ -45,7 +45,7 @@ function createSetupUI(onStartCallback) {
         select.appendChild(option);
     });
 
-    const options1 = ['Point', 'Line', 'Area'];
+    const options1 = ['Point', 'Line', 'Plane'];
     options1.forEach(opt1 => {
         const option1 = document.createElement('option');
         option1.value = opt1.toLowerCase();
@@ -53,7 +53,7 @@ function createSetupUI(onStartCallback) {
         select1.appendChild(option1);
     });
 
-    const options2 = ['Point', 'Line', 'Area'];
+    const options2 = ['Point', 'Line', 'Plane'];
     options2.forEach(opt2 => {
         const option2 = document.createElement('option');
         option2.value = opt2.toLowerCase();

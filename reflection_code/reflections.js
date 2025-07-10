@@ -23,7 +23,7 @@ function createSetupUI(onStartCallback) {
     const select = document.createElement('select');
     select.style.padding = '5px 10px';
 
-    const options = ['Point', 'Line', 'Area'];
+    const options = ['Point', 'Line', 'Plane'];
     options.forEach(opt => {
         const option = document.createElement('option');
         option.value = opt.toLowerCase();
