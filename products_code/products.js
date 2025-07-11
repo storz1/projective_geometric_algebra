@@ -109,7 +109,7 @@ function startSimulation(selection, selection1, selection2) {
                     return [
                         0x0000FF, L1,
                         0x0000FF, L2,
-                        0x00FF00, meet
+                        0xFF0000, meet
                     ]
                 }, { width: 1024, height: 512, scale: 0.3, clip: 5, grid: true}));
             });
@@ -125,7 +125,7 @@ function startSimulation(selection, selection1, selection2) {
                     return [
                         0x0000FF, L1,
                         0x0000FF, L2,
-                        0x00FF00, meet
+                        0xFF0000, meet
                     ]
                 }, { width: 1024, height: 512, scale: 0.3, clip: 5, grid: true}));
             });
@@ -141,7 +141,7 @@ function startSimulation(selection, selection1, selection2) {
                     return [
                         0x0000FF, L1,
                         0x0000FF, L2,
-                        0x00FF00, meet
+                        0xFF0000, meet
                     ]
                 }, { width: 1024, height: 512, scale: 0.3, clip: 5, grid: true}));
             });
@@ -159,7 +159,7 @@ function startSimulation(selection, selection1, selection2) {
                     return [
                         0x0000FF, L1,
                         0x0000FF, L2,
-                        0x00FF00, meet
+                        0xFF0000, meet
                     ]
                 }, { width: 1024, height: 512, scale: 0.3, clip: 5, grid: true}));
             });
@@ -175,7 +175,7 @@ function startSimulation(selection, selection1, selection2) {
                     return [
                         0x0000FF, L1,
                         0x0000FF, L2,
-                        0x00FF00, meet
+                        0xFF0000, meet
                     ]
                 }, { width: 1024, height: 512, scale: 0.3, clip: 5, grid: true}));
             });
@@ -191,7 +191,7 @@ function startSimulation(selection, selection1, selection2) {
                     return [
                         0x0000FF, L1,
                         0x0000FF, L2,
-                        0x00FF00, meet
+                        0xFF0000, meet
                     ]
                 }, { width: 1024, height: 512, scale: 0.3, clip: 5, grid: true}));
             });
@@ -209,7 +209,7 @@ function startSimulation(selection, selection1, selection2) {
                     return [
                         0x0000FF, L1,
                         0x0000FF, L2,
-                        0x00FF00, meet
+                        0xFF0000, meet
                     ]
                 }, { width: 1024, height: 512, scale: 0.3, clip: 5, grid: true}));
             });
@@ -225,7 +225,7 @@ function startSimulation(selection, selection1, selection2) {
                     return [
                         0x0000FF, L1,
                         0x0000FF, L2,
-                        0x00FF00, meet
+                        0xFF0000, meet
                     ]
                 }, { width: 1024, height: 512, scale: 0.3, clip: 5, grid: true}));
             });
@@ -241,7 +241,7 @@ function startSimulation(selection, selection1, selection2) {
                     return [
                         0x0000FF, L1,
                         0x0000FF, L2,
-                        0x00FF00, meet
+                        0xFF0000, meet
                     ]
                 }, { width: 1024, height: 512, scale: 0.3, clip: 5, grid: true}));
             });
@@ -262,7 +262,7 @@ function startSimulation(selection, selection1, selection2) {
                     return [
                         0x0000FF, L1,
                         0x0000FF, L2,
-                        0x00FF00, meet
+                        0xFF0000, meet
                     ]
                 }, { width: 1024, height: 512, scale: 0.3, clip: 5, grid: true}));
             });
@@ -278,7 +278,7 @@ function startSimulation(selection, selection1, selection2) {
                     return [
                         0x0000FF, L1,
                         0x0000FF, L2,
-                        0x00FF00, meet
+                        0xFF0000, meet
                     ]
                 }, { width: 1024, height: 512, scale: 0.3, clip: 5, grid: true}));
             });
@@ -294,7 +294,7 @@ function startSimulation(selection, selection1, selection2) {
                     return [
                         0x0000FF, L1,
                         0x0000FF, L2,
-                        0x00FF00, meet
+                        0xFF0000, meet
                     ]
                 }, { width: 1024, height: 512, scale: 0.3, clip: 5, grid: true}));
             });
@@ -312,7 +312,7 @@ function startSimulation(selection, selection1, selection2) {
                     return [
                         0x0000FF, L1,
                         0x0000FF, L2,
-                        0x00FF00, meet
+                        0xFF0000, meet
                     ]
                 }, { width: 1024, height: 512, scale: 0.3, clip: 5, grid: true}));
             });
@@ -328,7 +328,7 @@ function startSimulation(selection, selection1, selection2) {
                     return [
                         0x0000FF, L1,
                         0x0000FF, L2,
-                        0x00FF00, meet
+                        0xFF0000, meet
                     ]
                 }, { width: 1024, height: 512, scale: 0.3, clip: 5, grid: true}));
             });
@@ -344,7 +344,7 @@ function startSimulation(selection, selection1, selection2) {
                     return [
                         0x0000FF, L1,
                         0x0000FF, L2,
-                        0x00FF00, meet
+                        0xFF0000, meet
                     ]
                 }, { width: 1024, height: 512, scale: 0.3, clip: 5, grid: true}));
             });
@@ -362,7 +362,7 @@ function startSimulation(selection, selection1, selection2) {
                     return [
                         0x0000FF, L1,
                         0x0000FF, L2,
-                        0x00FF00, meet
+                        0xFF0000, meet
                     ]
                 }, { width: 1024, height: 512, scale: 0.3, clip: 5, grid: true}));
             });
@@ -378,7 +378,7 @@ function startSimulation(selection, selection1, selection2) {
                     return [
                         0x0000FF, L1,
                         0x0000FF, L2,
-                        0x00FF00, meet
+                        0xFF0000, meet
                     ]
                 }, { width: 1024, height: 512, scale: 0.3, clip: 5, grid: true}));
             });
@@ -394,7 +394,7 @@ function startSimulation(selection, selection1, selection2) {
                     return [
                         0x0000FF, L1,
                         0x0000FF, L2,
-                        0x00FF00, meet
+                        0xFF0000, meet
                     ]
                 }, { width: 1024, height: 512, scale: 0.3, clip: 5, grid: true}));
             });
@@ -415,7 +415,7 @@ function startSimulation(selection, selection1, selection2) {
                     return [
                         0x0000FF, L1,
                         0x0000FF, L2,
-                        0x00FF00, meet
+                        0xFF0000, meet
                     ]
                 }, { width: 1024, height: 512, scale: 0.3, clip: 5, grid: true}));
             });
@@ -431,7 +431,7 @@ function startSimulation(selection, selection1, selection2) {
                     return [
                         0x0000FF, L1,
                         0x0000FF, L2,
-                        0x00FF00, meet
+                        0xFF0000, meet
                     ]
                 }, { width: 1024, height: 512, scale: 0.3, clip: 5, grid: true}));
             });
@@ -447,7 +447,7 @@ function startSimulation(selection, selection1, selection2) {
                     return [
                         0x0000FF, L1,
                         0x0000FF, L2,
-                        0x00FF00, meet
+                        0xFF0000, meet
                     ]
                 }, { width: 1024, height: 512, scale: 0.3, clip: 5, grid: true}));
             });
@@ -465,7 +465,7 @@ function startSimulation(selection, selection1, selection2) {
                     return [
                         0x0000FF, L1,
                         0x0000FF, L2,
-                        0x00FF00, meet
+                        0xFF0000, meet
                     ]
                 }, { width: 1024, height: 512, scale: 0.3, clip: 5, grid: true}));
             });
@@ -481,7 +481,7 @@ function startSimulation(selection, selection1, selection2) {
                     return [
                         0x0000FF, L1,
                         0x0000FF, L2,
-                        0x00FF00, meet
+                        0xFF0000, meet
                     ]
                 }, { width: 1024, height: 512, scale: 0.3, clip: 5, grid: true}));
             });
@@ -497,7 +497,7 @@ function startSimulation(selection, selection1, selection2) {
                     return [
                         0x0000FF, L1,
                         0x0000FF, L2,
-                        0x00FF00, meet
+                        0xFF0000, meet
                     ]
                 }, { width: 1024, height: 512, scale: 0.3, clip: 5, grid: true}));
             });
@@ -515,7 +515,7 @@ function startSimulation(selection, selection1, selection2) {
                     return [
                         0x0000FF, L1,
                         0x0000FF, L2,
-                        0x00FF00, meet
+                        0xFF0000, meet
                     ]
                 }, { width: 1024, height: 512, scale: 0.3, clip: 5, grid: true}));
             });
@@ -531,7 +531,7 @@ function startSimulation(selection, selection1, selection2) {
                     return [
                         0x0000FF, L1,
                         0x0000FF, L2,
-                        0x00FF00, meet
+                        0xFF0000, meet
                     ]
                 }, { width: 1024, height: 512, scale: 0.3, clip: 5, grid: true}));
             });
@@ -547,7 +547,7 @@ function startSimulation(selection, selection1, selection2) {
                     return [
                         0x0000FF, L1,
                         0x0000FF, L2,
-                        0x00FF00, meet
+                        0xFF0000, meet
                     ]
                 }, { width: 1024, height: 512, scale: 0.3, clip: 5, grid: true}));
             });
